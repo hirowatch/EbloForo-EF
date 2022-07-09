@@ -1,2 +1,3 @@
 # EbloForo-EF
-Non-standard Russian slang for Xenforo
+My Blog [https://t.me/chatickchan](@hirowatchme)
+Contact [https://t.me/chatickchan](@hirowatchme)
