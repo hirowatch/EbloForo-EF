@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="ЕблоForo (EF)" date_format="d.m.Y" time_format="h:i:s" currency_format="{value} {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2020970" export_version="2">
   <phrase title="accept_future_messages" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Принимать последующие пиздежи]]></phrase>
+  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Правила пиздежа приняты]]></phrase>
   <phrase title="active_reports" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Необработанные репорты]]></phrase>
   <phrase title="activity_summary_def.latest_posts" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Последние пиздежи]]></phrase>
   <phrase title="activity_summary_def.latest_threads" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Последние бутылки]]></phrase>
@@ -27,14 +28,18 @@
   <phrase title="admin_navigation.adminLog" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Лог администратора]]></phrase>
   <phrase title="admin_navigation.alertUsers" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Отправить доёбы]]></phrase>
   <phrase title="admin_navigation.bannedUsers" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Заблокированные пиздюки]]></phrase>
+  <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Заставить принять Правила пиздежа]]></phrase>
   <phrase title="admin_navigation.forums" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пизделки]]></phrase>
+  <phrase title="admin_navigation.help" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[XenForo FAQ]]></phrase>
   <phrase title="admin_navigation.listAllUsers" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Список всех пиздюков]]></phrase>
+  <phrase title="admin_navigation.listReactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакция]]></phrase>
   <phrase title="admin_navigation.logsUser" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки]]></phrase>
   <phrase title="admin_navigation.memberStats" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Статистика пиздюков]]></phrase>
   <phrase title="admin_navigation.messageUsers" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Дропнуть личинку]]></phrase>
   <phrase title="admin_navigation.moderatorLog" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Лог пидораса]]></phrase>
   <phrase title="admin_navigation.moderators" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пидорасы]]></phrase>
   <phrase title="admin_navigation.options" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Настроечки]]></phrase>
+  <phrase title="admin_navigation.reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакция]]></phrase>
   <phrase title="admin_navigation.rejectedUserLog" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Журнал отклонённых пиздюков]]></phrase>
   <phrase title="admin_navigation.searchForUsers" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Поиск пиздюков]]></phrase>
   <phrase title="admin_navigation.setup" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Настроечки]]></phrase>
@@ -104,7 +109,7 @@
   <phrase title="button.attach" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Прикрепить понос]]></phrase>
   <phrase title="button.cancel" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ну его нахуй]]></phrase>
   <phrase title="button.delete" addon_id="XF" global_cache="1" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть]]></phrase>
-  <phrase title="button.save" addon_id="XF" global_cache="1" version_id="2020970" version_string="2.2.9"><![CDATA[ПОДТВЕРЖДАЮ]]></phrase>
+  <phrase title="button.save" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[+]]></phrase>
   <phrase title="button.show" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[УЗНАТЬ]]></phrase>
   <phrase title="cancel" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ну его нахуй]]></phrase>
   <phrase title="cancellation" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ну его нахуй]]></phrase>
@@ -125,6 +130,7 @@
   <phrase title="close_thread" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Закрыть бутылку]]></phrase>
   <phrase title="closed_reports" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Закрытые репорты]]></phrase>
   <phrase title="closed_reports_x_y" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Закрытые репорты: {from} - {to}]]></phrase>
+  <phrase title="confirm_convert_suggestion_reactions_in_following_forum" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пожалуйста, подтвердите, что вы хотите конвертировать МакроРеакция в голоса на этом форуме]]></phrase>
   <phrase title="confirm_delete_smilie_category_footnote" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Все еблишки из этой категории после того как ёбнешь останутся без категории.]]></phrase>
   <phrase title="confirm_deletion" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Подтверждение "ёбнуть"]]></phrase>
   <phrase title="confirm_deletion_of_x_users" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Подтвердите удаление {total} пиздюков]]></phrase>
@@ -148,6 +154,8 @@
   <phrase title="conversation_title" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Название Личинки]]></phrase>
   <phrase title="conversation_unstarred" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пометка с Личинки снята.]]></phrase>
   <phrase title="conversations" addon_id="XF" global_cache="1" version_id="2020970" version_string="2.2.9"><![CDATA[Личинки]]></phrase>
+  <phrase title="convert_reactions_to_votes" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Преобразовать МакроРеакции в голоса]]></phrase>
+  <phrase title="convert_suggestion_reactions_to_votes" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Преобразовать МакроРеакции в голоса]]></phrase>
   <phrase title="copy_posts" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Копировать пиздёж]]></phrase>
   <phrase title="copy_settings_from" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Копировать настроечки из]]></phrase>
   <phrase title="count_messages_in_forum_toward_user_total" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Считать пиздеж пиздюков в этой пизделке]]></phrase>
@@ -250,8 +258,10 @@
   <phrase title="general_options" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Основные настроечки]]></phrase>
   <phrase title="go" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Запуск]]></phrase>
   <phrase title="gravatar_support_is_disabled" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Поддержка Gravatar отключена. Включите поддержку в 'Настроечки > Настройки > Настройки пиздюков']]></phrase>
+  <phrase title="help" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[XenForo FAQ]]></phrase>
   <phrase title="help_page_desc.smilies" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Список всех смайлов, которые Вы можете использовать в пиздежах.]]></phrase>
   <phrase title="help_page_title.smilies" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Еблишки]]></phrase>
+  <phrase title="help_page_title.terms" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Правила пиздежа]]></phrase>
   <phrase title="hidden_smilies_hint" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Скрытые еблишки не отображаются в текстовом редакторе, но отображаются на странице помощи и продолжают преобразовываться из текста в изображения при вводе вручную в редакторе.]]></phrase>
   <phrase title="home" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Всё]]></phrase>
   <phrase title="if_disabled_messages_will_never_appear_in_find_new_threads" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Если отключено, то темы из этого форума не будут отображаться в списке новых/непрочитанных пиздежей.]]></phrase>
@@ -332,9 +342,9 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="members_who_liked_message_by_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, которым нравится сообщение от {user}]]></phrase>
   <phrase title="members_who_liked_message_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, которым понравилось сообщение №{position}]]></phrase>
   <phrase title="members_who_liked_this" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, которым это понравилось]]></phrase>
-  <phrase title="members_who_reacted_to_message_by_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, оставившие реакции к сообщению {user}]]></phrase>
-  <phrase title="members_who_reacted_to_message_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, оставившие реакции к сообщению №{position}]]></phrase>
-  <phrase title="members_who_reacted_to_this" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, оставившие реакции]]></phrase>
+  <phrase title="members_who_reacted_to_message_by_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, оставившие МакроРеакции к сообщению {user}]]></phrase>
+  <phrase title="members_who_reacted_to_message_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, оставившие МакроРеакции к сообщению №{position}]]></phrase>
+  <phrase title="members_who_reacted_to_this" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, оставившие МакроРеакции]]></phrase>
   <phrase title="members_who_voted_for_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, проголосовавшие за '{response}']]></phrase>
   <phrase title="members_x_is_following" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[{name} является подписчиком пиздюков]]></phrase>
   <phrase title="members_you_follow" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пиздюки, на которых Вы подписаны]]></phrase>
@@ -430,8 +440,10 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="no_messages_selected" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Нет выбранных пиздежей.]]></phrase>
   <phrase title="no_moderator_actions_have_been_logged" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Записи действий пидораса отсутствуют.]]></phrase>
   <phrase title="no_notable_members_can_currently_be_shown" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Нет полезных пиздюков для отображения.]]></phrase>
+  <phrase title="no_one_has_reacted_to_this_content_yet" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пока нет ни одной МакроРеакции для данного содержимого.]]></phrase>
   <phrase title="no_other_thread_types_available_cannot_change" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Другие типы бутылок отсутствуют. Тип этой бутылки не может быть изменен.]]></phrase>
   <phrase title="no_permission_to_post" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[У Вас недостаточно прав, чтобы оставлять здесь пиздеж.]]></phrase>
+  <phrase title="no_reactions_have_been_added_yet" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пока не добавлено ни одной МакроРеакции.]]></phrase>
   <phrase title="no_reports_have_been_closed_during_this_period" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Закрытые репарты за данный период отсутствуют.]]></phrase>
   <phrase title="no_reports_were_found_for_this_users_content" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Репорты на содержимое этого пиздюка не найдены.]]></phrase>
   <phrase title="no_thread_could_be_found_with_id_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Бутылка с индетификатором {thread_id} не найдена.]]></phrase>
@@ -561,6 +573,7 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="please_enter_valid_option_id" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пожалуйста, введите корректный ID настроечки.]]></phrase>
   <phrase title="please_enter_valid_title_to_start_conversation" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Для того, чтобы начать Личинку, пожалуйста, укажите корректный заголовок.]]></phrase>
   <phrase title="please_provide_url_of_non_redirect_thread" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пожалуйста, укажите ссылку на бутылку без перенаправления.]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_rules_before_continuing" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пожалуйста, прочитайте и примите наши Правила пиздежа перед тем, как продолжить.]]></phrase>
   <phrase title="please_select_valid_thread_type" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пожалуйста, выберите правильный тип бутылки.]]></phrase>
   <phrase title="please_specify_search_query_or_name_of_member" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пожалуйста, укажите корректный поисковый запрос или имя пиздюка.]]></phrase>
   <phrase title="poll_change_content_url" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Отредачить URL-адрес бутылки для опроса]]></phrase>
@@ -571,23 +584,30 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="post_messages_on_this_users_profile_page" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Оставлять пиздеж на странице профиля этого пиздюка]]></phrase>
   <phrase title="post_messages_on_your_profile_page" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Оставлять пиздеж на странице Вашего профиля]]></phrase>
   <phrase title="post_new_thread_in_this_forum" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Создать новую бутылку в этом пиздеже]]></phrase>
-  <phrase title="post_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Реакции к пиздежу]]></phrase>
+  <phrase title="post_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакции к пиздежу]]></phrase>
   <phrase title="post_reply" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Пояснить]]></phrase>
   <phrase title="post_thread" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Новая бутылка]]></phrase>
   <phrase title="post_thread_in" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Создание бутылки в...]]></phrase>
   <phrase title="postings" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Высеры]]></phrase>
   <phrase title="preferences" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Настроечки]]></phrase>
+  <phrase title="prefix_usage_help" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[FAQ по использованию префикса]]></phrase>
   <phrase title="prefix_will_only_be_applied_if_valid_for_forum" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Префикс будет применён только в том случае, если он корректен для форума, в котором находится бутылка или в который она будет перемещена.]]></phrase>
   <phrase title="privacy_options" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Настроечки конфиденциальности]]></phrase>
-  <phrase title="profile_post_comment_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Реакции к комментариям в пиздежах профилей]]></phrase>
+  <phrase title="profile_post_comment_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакции к комментариям в пиздежах профилей]]></phrase>
   <phrase title="profile_post_comments" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Комментарии к пиздежу профилей]]></phrase>
-  <phrase title="profile_post_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Реакции к пиздежу профилей]]></phrase>
+  <phrase title="profile_post_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакции к пиздежу профилей]]></phrase>
   <phrase title="profile_posts" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Сообщения пиздежа]]></phrase>
   <phrase title="promotion_options" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Настроечки повышения]]></phrase>
   <phrase title="push_conversation_create" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[{sender} начал(а) с Вами Личинку - {title}.]]></phrase>
   <phrase title="push_conversation_invite" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[{sender} добавил(а) Вас в Личинку - {title}.]]></phrase>
   <phrase title="question" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[ВОПРОС]]></phrase>
   <phrase title="quote_messages" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Цитировать пиздеж]]></phrase>
+  <phrase title="reacting_to_your_own_content_is_considered_cheating" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Оставлять МакроРеакции к собственным публикациям - это обман.]]></phrase>
+  <phrase title="reaction_content" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Содержимое МакроРеакции]]></phrase>
+  <phrase title="reaction_definitions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Определения МакроРеакции]]></phrase>
+  <phrase title="reaction_score" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакции]]></phrase>
+  <phrase title="reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[МакроРеакции]]></phrase>
+  <phrase title="reactions_received" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Полученные МакроРеакции]]></phrase>
   <phrase title="reason" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[нахуй ты ёбешь? Ты можешь указать доп. инфу]]></phrase>
   <phrase title="reason_for_banning" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[нахуй ты забанил? Ты можешь указать доп. инфу ]]></phrase>
   <phrase title="reason_for_deletion" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[нахуй ты ёбнул? Ты можешь указать доп. инфу ]]></phrase>
@@ -602,8 +622,8 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="remove" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть]]></phrase>
   <phrase title="remove_avatars" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть ебалы]]></phrase>
   <phrase title="remove_formatting" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть форматирование]]></phrase>
-  <phrase title="remove_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть реакции]]></phrase>
-  <phrase title="remove_reactions_within_last" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть реакции за последние]]></phrase>
+  <phrase title="remove_reactions" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть МакроРеакции]]></phrase>
+  <phrase title="remove_reactions_within_last" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть МакроРеакции за последние]]></phrase>
   <phrase title="remove_signatures" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть подписи]]></phrase>
   <phrase title="remove_table" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть таблицу]]></phrase>
   <phrase title="remove_this_filter" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ёбнуть этот фильтр]]></phrase>
@@ -638,7 +658,7 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="resend_security_lock_reset_email" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Повторно отправить письмо на электронную почту для сброса блокировки сесурити]]></phrase>
   <phrase title="resetting_notice_display_to_all_users_matching_not_restore_guests" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Сброс этого объявления приведёт к его повторному отображению для всех пиздюков, соответствующих критериям объявления, даже если ранее они его уже скрывали.]]></phrase>
   <phrase title="restrict_search_to_specified_thread" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ограничить поиск по указанным бутылкам]]></phrase>
-  <phrase title="save_and_exit" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[ПОДТВЕРЖДАЮ и ПОЙТИ НАХУЙ]]></phrase>
+  <phrase title="save_and_exit" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[+ и ВЫПИЛИТСЯ]]></phrase>
   <phrase title="save_as_default" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[ПОДТВЕРЖДИТЬ как по умолчанию]]></phrase>
   <phrase title="save_draft" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[ПОДТВЕРДИТЬ черновик]]></phrase>
   <phrase title="search" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ищи блядь]]></phrase>
@@ -707,6 +727,7 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="style_prop.errorBg" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Фон пиздежа об ошибке]]></phrase>
   <phrase title="style_prop.findThreadsNavStyle" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Стиль навигации страницы "Поиск бутылок"]]></phrase>
   <phrase title="style_prop.messageSignature" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Био в сообщении]]></phrase>
+  <phrase title="style_prop.reactionSummaryOnLists" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Показывать суммарные МакроРеакции в списках]]></phrase>
   <phrase title="style_prop.warningColor" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Цвет текста предупреждающего пиздежа]]></phrase>
   <phrase title="style_prop.whatsNewNavStyle" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Стиль навигации страницы "Чё блядь?"]]></phrase>
   <phrase title="style_prop_desc.buttonCta" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Кнопки вызова действия, как правило расположены отдельно и приглашают пользователя что-то сделать, например, создать новую бутылку]]></phrase>
@@ -716,6 +737,7 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="style_prop_desc.nodeListSubDisplay" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Выберите стиль, в котором под-пизделки будут отображаться в определённом элементе узла, в зависимости от пространства, которое Вы хотите, чтобы они занимали]]></phrase>
   <phrase title="style_prop_desc.publicHeaderAdjustColor" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Цвет фона заголовка для области входящих пиздежа Личинок и уведомлений]]></phrase>
   <phrase title="style_prop_desc.publicStaffBar" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Данная панель видна только участникам команды форума, она расположена выше "шапки" и содержит такие элементы, как репорты на высеры, очередь пидорасов...]]></phrase>
+  <phrase title="style_prop_desc.reactionSummaryOnLists" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Если этот параметр включен, три основные МакроРеакции будут отображаться на странице при просмотре списка тем.]]></phrase>
   <phrase title="style_prop_desc.whatsNewNavStyle" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Это определяет, как навигация отображается в разделе "<i>Чё блядь?</i>". Боковая навигация работает лучше с большим количеством разделов, но требует больше свободного места.]]></phrase>
   <phrase title="style_prop_group.avatar" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Ебалы]]></phrase>
   <phrase title="style_prop_group.member" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Профили пиздюков]]></phrase>
@@ -729,6 +751,7 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="super_moderator" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Главный пидорас]]></phrase>
   <phrase title="super_moderator_can_moderate_entire_board" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Главный пидорас может модерировать всю пизделку.]]></phrase>
   <phrase title="super_moderators" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Главные пидорасы]]></phrase>
+  <phrase title="terms_and_rules" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Правила пиздежа]]></phrase>
   <phrase title="thank_you_for_reporting_this_content" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Благодарим за отправку репорта.]]></phrase>
   <phrase title="there_no_conversations_to_display" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Нет Личинок для отображения.]]></phrase>
   <phrase title="there_no_messages_on_xs_profile_yet" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[В профиле пиздюка {name} пока нет ни одного пиздежа.]]></phrase>
@@ -746,6 +769,7 @@ XML-файл будет помещён в папку "internal-data" с назв
   <phrase title="this_user_is_already_banned" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Этот пользователь уже заблокирован. Сначала Вам необходимо ебнуть или отредактировать запись о существующей блокировке.]]></phrase>
   <phrase title="this_user_still_able_to_view_thread_not_reply" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Этот пользователь по-прежнему сможет просматривать данную бутылку, но не сможет отвечать, пока не истечёт блокировка.]]></phrase>
   <phrase title="this_will_delete_all_conversations_started_by_this_user" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Это удалит все Личинки, созданные данным пользователем. Эта операция необратима.]]></phrase>
+  <phrase title="this_will_delete_all_reactions_of_this_type" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Данное действие удалит все МакроРеакции этого типа.]]></phrase>
   <phrase title="this_will_not_remove_any_content_this_user_has_already_created" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Это действие не удалит высеры, которые создал данный пользователь.]]></phrase>
   <phrase title="thread" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Бутылка]]></phrase>
   <phrase title="thread_creator_in_user_groups" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Создатель бутылки в группах пиздюков]]></phrase>
